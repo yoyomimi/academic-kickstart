@@ -66,8 +66,8 @@ social:
   link: https://docs.qq.com/doc/DVEF5TUZWVW9zdXNM
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: "lasiafly@163.com"
-email: ""
+email: "lasiafly@163.com"
+
 
 
 # Organizational groups that you belong to (for People widget)
