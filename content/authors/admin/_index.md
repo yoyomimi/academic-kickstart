@@ -38,7 +38,7 @@ education:
     year: 2018
   - course: BSc in Computer Science
     institution: Huazhong University of Science and Technology
-    year: 2016
+    year: 2016 ~ Present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
