@@ -48,6 +48,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:lasiafly@163.com # For a direct email link, use "mailto:test@example.org".
+  
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mingfei-chen-b85947153/
