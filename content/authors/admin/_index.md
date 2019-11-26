@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: Summer Research Internship
-    institution: The Chinese University of Hong Kong, Shenzhen;
+    institution: The Chinese University of Hong Kong, Shenzhen &
                  The State University of New York, Buffalo
     year: 2019
   - course: Summer Workshop in School of Computing
@@ -50,7 +50,7 @@ social:
   link: mailto:lasiafly@163.com # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/%E6%98%8E%E9%9C%8F-%E9%99%88-b85947153/
+  link: https://www.linkedin.com/in/mingfei-chen-b85947153/
 
 # - icon: google-scholar
 #   icon_pack: ai
