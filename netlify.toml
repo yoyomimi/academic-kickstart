@@ -24,3 +24,13 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+
+
+[[redirects]]
+  from = "http://mingfeichen.netlify.com/*"
+  to = "http://www.mingfeichen.com/:splat"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
+  signed = "API_SIGNATURE_TOKEN"
