@@ -10,35 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student of Computer Science
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
 - name: Huazhong University of Science and Technology
-  url: ""
+  url: "http://english.hust.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Online Multi-object Tracking (MOT), Human-object Interaction (HOI) and Cross-modal Video Retrieval (Vision Language).
 
 interests:
 
 - Artificial Intelligence
 - Computer Vision
 - Cross-modal Video Analytics
-- Personal Health
+
 
 education:
   courses:
-  - course: Summer Research Internship
-    institution: The Chinese University of Hong Kong, Shenzhen &
-                 The State University of New York, Buffalo
-    year: 2019
-  - course: Summer Workshop in School of Computing
-    institution: National University of Singapore
-    year: 2018
+  - course: MS, Electronic Information and Communications
+    institution: Huazhong University of Science and Technology
+    year: 2020~now
   - course: BSc in Computer Science
     institution: Huazhong University of Science and Technology
-    year: 2016 ~ Present
+    year: 2016 ~ 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,9 +58,9 @@ social:
   link: https://github.com/yoyomimi/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: https://docs.qq.com/doc/DVEF5TUZWVW9zdXNM
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lasiafly@163.com"
@@ -78,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Mingfei Chen
+Mingfei Chen received his B.S. degree from the Huazhong University of Science and Technology of China in 2020. She is currently working on Computer Vision, espically in Online Multi-object Tracking (MOT), Human-object Interaction (HOI) and Cross-modal Video Retrieval (Vision Language).
